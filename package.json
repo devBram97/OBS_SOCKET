@@ -4,7 +4,7 @@
   "description": "This is a widget socket for interactive OBS widgets",
   "main": "index.js",
   "scripts": {
-    "test": "node runPython"
+    "start": "node index"
   },
   "author": "Bram Speeckaert",
   "license": "ISC",
